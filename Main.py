@@ -30,6 +30,7 @@ def checkRepeats(list, streakLength):
             streak = 0
             repeats += 1
     return repeats
+
 while True:
     print("How many sides should the die have?")
     while True:
